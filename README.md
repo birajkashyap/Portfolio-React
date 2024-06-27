@@ -1,2 +1,3 @@
 # Portfolio-React
-Simple portfolio using react
+- Simple portfolio using react
+- Used formik,yup,mui
